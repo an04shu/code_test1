@@ -1,1 +1,1 @@
-# code_test1
+# give a shortest code for one's complement of a number.
